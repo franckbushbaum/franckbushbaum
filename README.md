@@ -40,7 +40,7 @@ If you could only use one hotkey for the rest of your life, what would it be?
 <br />
 
 
-<img src= "https://github-readme-stats.vercel.app/api?username=EldryMG&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+<img src= "https://github-readme-stats.vercel.app/api?username=franckbushbaum&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
 [website]: https://eldrymg.github.io/
 [linkedin]: https://www.linkedin.com/in/franck-bushbaum-482b16220/
