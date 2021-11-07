@@ -1,4 +1,4 @@
-### Hi there, I'm Franck[website] 👋
+### Hi there, I'm [Franck][website] 👋
 
 If you could only use one hotkey for the rest of your life, what would it be? 
 
