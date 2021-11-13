@@ -47,6 +47,7 @@ If you could only use one hotkey for the rest of your life, what would it be?
 
 ### Projects:
 <p>[Personal Workout Tracker][project531]</p>
+
 ![Alttext](https://media.giphy.com/media/Radng7gYfKKWeFw98E/giphy.gif)
 
 <br />
