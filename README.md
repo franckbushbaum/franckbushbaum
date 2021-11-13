@@ -47,7 +47,7 @@ If you could only use one hotkey for the rest of your life, what would it be?
 
 ### Projects:
 
-![Alt Text](https://media.giphy.com/media/Radng7gYfKKWeFw98E/giphy.gif)[project531]
+[project531](https://media.giphy.com/media/Radng7gYfKKWeFw98E/giphy.gif)
 
 <br />
 <br />
