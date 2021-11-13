@@ -47,8 +47,8 @@ If you could only use one hotkey for the rest of your life, what would it be?
 
 ### Projects:
 
-<p>[Personal Workout Tracker](https://github.com/franckbushbaum/Project-531/)</p>
-
+[Personal Workout Tracker][project]
+<br/>
 ![Alttext](https://media.giphy.com/media/Radng7gYfKKWeFw98E/giphy.gif)
 
 <br />
@@ -56,7 +56,7 @@ If you could only use one hotkey for the rest of your life, what would it be?
 
 <img src= "https://github-readme-stats.vercel.app/api?username=franckbushbaum&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
-[project531]: https://github.com/franckbushbaum/Project-531/
+[project]: https://github.com/franckbushbaum/Project-531/
 [website]: https://franckbushbaum.github.io/EldryMG.github.io/
 [linkedin]: https://www.linkedin.com/in/franck-bushbaum-482b16220/
 
