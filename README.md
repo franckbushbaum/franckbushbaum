@@ -45,6 +45,10 @@ If you could only use one hotkey for the rest of your life, what would it be?
 <img src="https://camo.githubusercontent.com/04a90f19cc0a94d20300039f986297ab6426f354bf27a65c6d19e0402a1898af/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5653253230436f64652532302d2532333030374143432e7376673f267374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465" height="20px" />
 </p>
 
+### Projects:
+
+![Alt Text](https://media.giphy.com/media/Radng7gYfKKWeFw98E/giphy.gif)
+
 <br />
 <br />
 
