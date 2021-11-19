@@ -7,10 +7,6 @@ If you could only use one hotkey for the rest of your life, what would it be?
 - 🥅 2021 Goals: Deliver an outstanding client project and become a React developer.
 - ⚡ Fun fact: Fluent in French, so that's helpful occasionally..
 
-### Connect with me:
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20px" />](https://www.linkedin.com/in/franck-bushbaum-482b16220/)
-
 
 <br />
 
@@ -55,6 +51,10 @@ If you could only use one hotkey for the rest of your life, what would it be?
 <br />
 
 <img src= "https://github-readme-stats.vercel.app/api?username=franckbushbaum&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+
+### Connect with me:
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20px" />](https://www.linkedin.com/in/franck-bushbaum-482b16220/)
 
 [project]: https://github.com/franckbushbaum/Project-531/
 [website]: https://franckbushbaum.github.io/EldryMG.github.io/
