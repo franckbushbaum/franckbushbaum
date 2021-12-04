@@ -49,7 +49,7 @@ If you could only use one hotkey for the rest of your life, what would it be?
 
 [Movies Project] [movies]
 <br/>
-![Alttext] (https://media3.giphy.com/media/MPI1PRc4ySVo6oEKyv/giphy.gif?cid=790b76115aff2f0664176802fc8f70c4612dc36bd19622b0&rid=giphy.gif&ct=g)
+![Alttext](https://media3.giphy.com/media/MPI1PRc4ySVo6oEKyv/giphy.gif)
 
 <br />
 <br />
