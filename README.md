@@ -47,6 +47,10 @@ If you could only use one hotkey for the rest of your life, what would it be?
 <br/>
 ![Alttext](https://media.giphy.com/media/Radng7gYfKKWeFw98E/giphy.gif)
 
+[Movies Project] [movies]
+<br/>
+![Alttext] (https://media3.giphy.com/media/MPI1PRc4ySVo6oEKyv/giphy.gif?cid=790b76115aff2f0664176802fc8f70c4612dc36bd19622b0&rid=giphy.gif&ct=g)
+
 <br />
 <br />
 
@@ -57,6 +61,7 @@ If you could only use one hotkey for the rest of your life, what would it be?
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20px" />](https://www.linkedin.com/in/franck-bushbaum-482b16220/)
 
 [project]: https://github.com/franckbushbaum/Project-531/
+[movies]: https://github.com/franckbushbaum/movie-sagas
 [website]: https://franckbushbaum.github.io/EldryMG.github.io/
 [linkedin]: https://www.linkedin.com/in/franck-bushbaum-482b16220/
 
