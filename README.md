@@ -47,7 +47,7 @@ If you could only use one hotkey for the rest of your life, what would it be?
 <br/>
 ![Alttext](https://media.giphy.com/media/Radng7gYfKKWeFw98E/giphy.gif)
 
-[Movies Project] [movies]
+[Movies Project][movies]
 <br/>
 ![Alttext](https://media3.giphy.com/media/MPI1PRc4ySVo6oEKyv/giphy.gif)
 
