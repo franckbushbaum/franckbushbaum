@@ -51,6 +51,7 @@ If you could only use one hotkey for the rest of your life, what would it be?
 <br/>
 ![Alttext](https://media3.giphy.com/media/MPI1PRc4ySVo6oEKyv/giphy.gif)
 
+<br/>
 [Feedback Form w/ Admin page][feedback]
 ![Alttext](https://media0.giphy.com/media/QWiFe0D5anpfUiqNz8/giphy.gif)
 
