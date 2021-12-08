@@ -4,7 +4,7 @@ If you could only use one hotkey for the rest of your life, what would it be?
 
 - 🌱 I’m currently learning Javascript, React, Node.js and C#!
 - 👯 I’m looking to join a Minneapolis-based coding group.
-- 🥅 2021 Goals: Deliver an outstanding client project and become a React developer.
+- 🥅 2022 Goals: Deliver an outstanding client project and become a React developer, don't die!
 - ⚡ Fun fact: Fluent in French, so that's helpful occasionally..
 
 
