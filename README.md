@@ -2,9 +2,9 @@
 
 If you could only use one hotkey for the rest of your life, what would it be? 
 
-- 🌱 I’m currently learning Javascript, React, Node.js and C#!
+- 🌱 Aspiring React developer!
 - 👯 I’m looking to join a Minneapolis-based coding group.
-- 🥅 2022 Goals: Deliver an outstanding client project and become a React developer, don't die!
+- 🥅 2022 Goals: Be 1% better at something every day.
 - ⚡ Fun fact: Fluent in French, so that's helpful occasionally..
 
 
