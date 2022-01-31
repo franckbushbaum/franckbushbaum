@@ -75,4 +75,5 @@ If you could only use one hotkey for the rest of your life, what would it be?
 [movies]: https://github.com/franckbushbaum/movie-sagas
 [website]: https://franckbushbaum.github.io/EldryMG.github.io/
 [linkedin]: https://www.linkedin.com/in/franck-bushbaum-482b16220/
+[MNMC]: https://github.com/mnmarketingcareers/mn-marketing-careers
 
