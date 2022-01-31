@@ -43,6 +43,10 @@ If you could only use one hotkey for the rest of your life, what would it be?
 
 ### Projects:
 
+[MN Marketing Careers][MNMC]
+<br/>
+![Alttext](https://media4.giphy.com/media/TIE1OwH8JXdYsjN8dK/giphy.gif)
+
 [Personal Workout Tracker][project]
 <br/>
 ![Alttext](https://raw.githubusercontent.com/franckbushbaum/Project-531/master/pics/Datapath.png)
