@@ -51,7 +51,7 @@ If you could only use one hotkey for the rest of your life, what would it be?
 <br/>
 ![Alttext](https://raw.githubusercontent.com/franckbushbaum/Project-531/master/pics/Datapath.png)
 
-[APIs][Crypto]
+[News and Currency Converter APIs][Crypto]
 <br/>
 ![Alttext](https://media4.giphy.com/media/TEwUYImtiQKK5iZShl/giphy.gif)
 
