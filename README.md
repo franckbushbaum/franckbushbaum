@@ -51,6 +51,10 @@ If you could only use one hotkey for the rest of your life, what would it be?
 <br/>
 ![Alttext](https://raw.githubusercontent.com/franckbushbaum/Project-531/master/pics/Datapath.png)
 
+[APIs][Crypto]
+<br/>
+![Alttext](https://media4.giphy.com/media/TEwUYImtiQKK5iZShl/giphy.gif)
+
 [Movies Project][movies]
 <br/>
 ![Alttext](https://media3.giphy.com/media/MPI1PRc4ySVo6oEKyv/giphy.gif)
@@ -76,4 +80,5 @@ If you could only use one hotkey for the rest of your life, what would it be?
 [website]: https://franckbushbaum.github.io/EldryMG.github.io/
 [linkedin]: https://www.linkedin.com/in/franck-bushbaum-482b16220/
 [MNMC]: https://github.com/mnmarketingcareers/mn-marketing-careers
+[Crypto]: https://github.com/franckbushbaum/crypto-dashboard-api
 
