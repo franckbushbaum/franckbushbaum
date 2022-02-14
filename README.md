@@ -9,6 +9,10 @@ If you could only use one hotkey for the rest of your life, what would it be?
 
 
 <br />
+### February & March 2022:
+- Projects involving APIs, and backend. Completed and styled three seperate projects involving crypto, a playable word game and Sodoku.
+- Project531 part 2!! I want to track my sprints now.  Updating my app to store and animate my times using Chart.js.
+- Diving into Typescript.
 
 ### Languages and Tools:
 <p float="left">
