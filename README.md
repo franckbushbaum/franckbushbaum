@@ -16,7 +16,7 @@ If you could only use one hotkey for the rest of your life, what would it be? It
 - Projects involving APIs, and backend. Completed and styled three seperate projects involving crypto, a playable word game and Sodoku.
 - Project531 part 2!! I want to track my sprints now.  Updating my app to store and animate my times using Chart.js.
 - Diving into Typescript.
-- I may not have the time to dedicate this much styling in a while so here's Part 2 of my personal workout app Project531! 
+- I may not have the opportunity to dedicate this much time to CSS on a project for a while; so here's Part 2 of my personal workout app Project531! 
 
 [Personal Workout Tracker - PART 2!!!][project]
 <br/>
