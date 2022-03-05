@@ -16,7 +16,7 @@ If you could only use one hotkey for the rest of your life, what would it be? It
 - HackerRank challenge!! This is a personal challenge I set for myself after finishing Solo Project Part 2:
   - march 03 - 1
   - march 04 - 1
-  - march 05 - 1
+  - march 05 - 2!!
 
 ## February 2022:
 - Projects involving APIs, and backend. Completed and styled three seperate projects involving crypto, a playable word game and Sodoku.
