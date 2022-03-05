@@ -12,7 +12,12 @@ If you could only use one hotkey for the rest of your life, what would it be? It
 
 ----------------------
 
-## February & March 2022:
+## March 2022:
+- HackerRank challenge!! This is a personal challenge I set for myself after finishing Solo Project Part 2:
+  - march 03 - 1
+  - march 04 - 1
+
+## February 2022:
 - Projects involving APIs, and backend. Completed and styled three seperate projects involving crypto, a playable word game and Sodoku.
 - Project531 part 2!! I want to track my sprints now.  Updating my app to store and animate my times using Chart.js.
 - Diving into Typescript.
