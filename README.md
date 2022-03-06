@@ -99,7 +99,7 @@ If you could only use one hotkey for the rest of your life, what would it be? It
 [project]: https://github.com/franckbushbaum/Project-531/
 [feedback]: https://github.com/franckbushbaum/Feedback-form
 [movies]: https://github.com/franckbushbaum/movie-sagas
-[website]: https://franckbushbaum.github.io/EldryMG.github.io/
+[website]: https://franck-bushbaum.com/
 [linkedin]: https://www.linkedin.com/in/franck-bushbaum-482b16220/
 [MNMC]: https://github.com/mnmarketingcareers/mn-marketing-careers
 [Crypto]: https://github.com/franckbushbaum/crypto-dashboard-api
