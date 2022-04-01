@@ -17,10 +17,6 @@ If you could only use one hotkey for the rest of your life, what would it be? It
 - Diving into Typescript. 
 
 [Personal Workout Tracker - PART 3!?][project]
-<br/>
-### App can now add,track and chart sprint workouts.
-![Alttext](https://media.giphy.com/media/xdoNhxpT2ZaYsLXXYq/giphy.gif)
-![Alttext](https://media.giphy.com/media/aVsHbVZzNlKKduCKXy/giphy.gif)
 
 ----------------------
 
@@ -32,7 +28,7 @@ If you could only use one hotkey for the rest of your life, what would it be? It
 
 [Personal Workout Tracker - PART 2!!!][project]
 <br/>
-### App can now add,track and chart sprint workouts.
+#### App can now add,track and chart sprint workouts.
 ![Alttext](https://media.giphy.com/media/xdoNhxpT2ZaYsLXXYq/giphy.gif)
 ![Alttext](https://media.giphy.com/media/aVsHbVZzNlKKduCKXy/giphy.gif)
 
