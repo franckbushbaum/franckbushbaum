@@ -12,6 +12,18 @@ If you could only use one hotkey for the rest of your life, what would it be? It
 
 ----------------------
 
+## April & May 2022:
+- Project531's Third sprint. This will take it from being a weightlifting tracker to what it is now; a workout tracker, a sprints workout tracker with Air Quality tracker, since I prefer to do mine outside. This is a great opportunity not only to add functionality, I plan to use part 3 to improve my markdown, documentation and mockup skills/UX Design.
+- Diving into Typescript. 
+
+[Personal Workout Tracker - PART 3!?][project]
+<br/>
+### App can now add,track and chart sprint workouts.
+![Alttext](https://media.giphy.com/media/xdoNhxpT2ZaYsLXXYq/giphy.gif)
+![Alttext](https://media.giphy.com/media/aVsHbVZzNlKKduCKXy/giphy.gif)
+
+----------------------
+
 ## February & March 2022:
 - Projects involving APIs, and backend. Completed and styled three seperate projects involving crypto, a playable word game and Sodoku.
 - Project531 part 2!! I want to track my sprints now.  Updating my app to store and animate my times using Chart.js.
