@@ -5,7 +5,6 @@ If you could only use one hotkey for the rest of your life, what would it be? It
 - 🌱 Aspiring React developer!
 - 👯 I’m looking to join a Minneapolis-based coding group.
 - 🥅 2022 Goals: Be 1% better at something every day.
-- ⚡ Fun fact: Fluent in French, so that's helpful occasionally..
 
 
 <br />
