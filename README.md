@@ -9,6 +9,13 @@ If you could only use one hotkey for the rest of your life, what would it be? It
 
 <br />
 
+## June 2022:
+- [Kevin Powell's 21-day CSS challenge!][CSSCourse] 
+  - Week 1: Working with responsive units.
+  - Week 2: Getting flexbox to do the work for you.
+  - Week 3: Mastering Media Queries.
+  
+
 ----------------------
 
 ## April & May 2022:
@@ -107,4 +114,5 @@ If you could only use one hotkey for the rest of your life, what would it be? It
 [linkedin]: https://www.linkedin.com/in/franck-bushbaum-482b16220/
 [MNMC]: https://github.com/mnmarketingcareers/mn-marketing-careers
 [Crypto]: https://github.com/franckbushbaum/crypto-dashboard-api
+[CSSCourse]: https://courses.kevinpowell.co/conquering-responsive-layouts
 
