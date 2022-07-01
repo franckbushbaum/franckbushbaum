@@ -9,6 +9,10 @@ If you could only use one hotkey for the rest of your life, what would it be?
 
 <br />
 
+## July 2022:
+- UDemy course on SQL.
+- Relearn to code because I forgot everything.
+
 ## June 2022:
 - [Kevin Powell's 21-day CSS challenge!][CSSCourse] 
   - Week 1: Working with responsive units. Percentages will be in relation to parent, always. VH and VW can cause problems of small screens. Pixels I have used when I am sure the size is fixed. "ch" is a new size which is based on the idea that container wider than 75ch are generally not pleasant for people to look at. I have (and will continue) to use REM for padding; margins I have had luck with both REM, Percentages and I have steered away from VH and VW.
