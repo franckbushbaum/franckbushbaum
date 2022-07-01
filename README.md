@@ -10,8 +10,7 @@ If you could only use one hotkey for the rest of your life, what would it be?
 <br />
 
 ## July 2022:
-- UDemy course on SQL.
-- Relearn to code because I forgot everything.
+- An intermediate course on SQL!
 
 ## June 2022:
 - [Kevin Powell's 21-day CSS challenge!][CSSCourse] 
