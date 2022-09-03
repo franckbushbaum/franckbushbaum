@@ -9,10 +9,10 @@ If you could only use one hotkey for the rest of your life, what would it be?
 
 <br />
 
-##September 2022:
+## September 2022:
 Vue! With AgGrid.js.
 
-##August 2022:
+## August 2022:
 The fourth and fifth parts of Project531
 
 ## July 2022:
