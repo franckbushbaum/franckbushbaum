@@ -9,8 +9,14 @@ If you could only use one hotkey for the rest of your life, what would it be?
 
 <br />
 
+##September 2022:
+Vue! With AgGrid.js.
+
+##August 2022:
+The fourth and fifth parts of Project531
+
 ## July 2022:
-- An intermediate course on SQL!
+- An intermediate course on SQL! -nope, that hasn't happened yet.
 
 ## June 2022:
 - [Kevin Powell's 21-day CSS challenge!][CSSCourse] 
