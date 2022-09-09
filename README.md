@@ -93,7 +93,7 @@ The fourth and fifth parts of Project531
 
 [Personal Workout Tracker][project]
 <br/>
-![Alttext](https://raw.githubusercontent.com/franckbushbaum/Project-531/master/pics/Datapath.png)
+![Alttext](https://github.com/franckbushbaum/Project-531/blob/master/pics/Project531Sprint3Final.png)
 
 [News and Currency Converter APIs][Crypto]
 <br/>
