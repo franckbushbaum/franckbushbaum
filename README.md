@@ -8,6 +8,8 @@ If you could only use one hotkey for the rest of your life, what would it be?
 
 
 <br />
+## October 2022:
+BIG expansion of the vue project.
 
 ## September 2022:
 Vue! With AgGrid.js.
