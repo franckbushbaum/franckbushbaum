@@ -1,6 +1,6 @@
 ### Hi there, I'm [Franck][website] 👋
 
-If you could only use one hotkey for the rest of your life, what would it be? 
+If you could only use one hotkey for the rest of your life, what would it be? Cmd + Shift + L
 
 - 🌱 Aspiring React developer!
 - 👯 I’m looking to join a Minneapolis-based coding group.
